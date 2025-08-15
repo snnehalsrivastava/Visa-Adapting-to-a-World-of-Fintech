@@ -48,5 +48,3 @@ Despite its dominant position, Visa faces ongoing challenges, including intense 
 This study illuminates Visa's remarkable journey of continuous growth and evolution, driven by its exceptional ability to innovate and strategically adapt to the dynamic landscape of the financial industry.
 
 ---
-
-**Source:** Tuli, K.R., 2020. "Strategic Analysis: Visa: Adapting to a World of FinTech."
